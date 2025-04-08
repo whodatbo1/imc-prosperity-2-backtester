@@ -14,6 +14,9 @@ LIMITS = {
     "GIFT_BASKET": 60,
     "COCONUT": 300,
     "COCONUT_COUPON": 600,
+    "RAINFOREST_RESIN": 50,
+    "KELP": 50,
+    "SQUID_INK": 50,
 }
 
 @dataclass
